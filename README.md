@@ -1,1 +1,1 @@
-# repositorio de jorgetargz y la ayuda de jorgetargz2
+# repositorio de jorgetargz 
