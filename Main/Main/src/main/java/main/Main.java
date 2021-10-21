@@ -27,6 +27,8 @@ public class Main {
                     break;
                 case 5:
                     break;
+                default:
+                    break;
             }
 
         } while (opcion != 0);
