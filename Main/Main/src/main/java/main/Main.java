@@ -16,6 +16,18 @@ public class Main {
             System.out.println("0. Salir");
             System.out.print("Introduce un numero: ");
             opcion = sc.nextInt();
+            switch (opcion) {
+                case 1:
+                    break;
+                case 2:
+                    break;
+                case 3:
+                    break;
+                case 4:
+                    break;
+                case 5:
+                    break;
+            }
         } while (opcion != 0);
     }
 }
