@@ -17,6 +17,9 @@ public class Main {
             System.out.print("Introduce un numero: ");
             opcion = sc.nextInt();
             switch (opcion) {
+                case 0:
+                    System.out.println("Exit");
+                    break;
                 case 1:
                     break;
                 case 2:
